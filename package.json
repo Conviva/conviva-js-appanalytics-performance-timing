@@ -1,0 +1,21 @@
+{
+  "name": "@convivainc/conviva-js-appanalytics-performance-timing",
+  "version": "0.3.8",
+  "description": "Conviva Application Analytics Performance Timing Plugin",
+  "main": "conviva-js-appanalytics-performance-timing.js",
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:Conviva/conviva-js-appanalytics-performance-timing.git"
+  },
+  "keywords": [
+    "Conviva",
+    "Application",
+    "Analytics", "Performance"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-appanalytics-performance-timing/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-appanalytics-performance-timing#readme"
+}
