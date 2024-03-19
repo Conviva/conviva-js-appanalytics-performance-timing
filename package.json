@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-appanalytics-performance-timing",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "description": "Conviva Application Analytics Performance Timing Plugin",
   "main": "conviva-js-appanalytics-performance-timing.js",
   "repository": {
