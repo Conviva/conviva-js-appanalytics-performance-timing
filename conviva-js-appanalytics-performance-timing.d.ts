@@ -1,4 +1,4 @@
-import { BrowserPlugin } from '@snowplow/browser-tracker-core';
+import { BrowserPlugin } from '@convivainc/browser-tracker-core';
 declare global {
     interface Window {
         mozPerformance: any;
